@@ -1,8 +1,8 @@
 ![BerryBox logo](docs/img/BerryBox-small.png)
 
 # BerryBox. A light theme for Xcode
-![Berry theme](docs/img/xd0-preview.png)
 [Go to BerryBox theme site](https://vladgohn.github.io/BerryBox-theme/)
+![Berry theme](docs/img/xd0-preview.png)
 
 ## Background
 
