@@ -13,9 +13,10 @@ header {
 
 .preview {
   background-image: url("../img/xd0-preview.png");
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
-  height: 670px;
+  background-size: contain;
+  height: 690px;
   position: relative;
   margin: -300px auto 0; }
 
@@ -84,7 +85,7 @@ pre {
       color: #076fe1;
       margin-left: -.5em;
       left: 0;
-      top: 1px;
+      top: 0;
     }
 
 h4 {
