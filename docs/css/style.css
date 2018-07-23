@@ -80,11 +80,12 @@ pre {
     border-radius: 0; }
     pre code::after {
       position: absolute;
-      content: "$";
+      content: "~";
       color: #076fe1;
       margin-left: -.5em;
       left: 0;
-      top: 1px; }
+      top: 1px;
+    }
 
 h4 {
   font-size: 1.7em;
