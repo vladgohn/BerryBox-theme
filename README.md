@@ -1,7 +1,7 @@
-![BerryBox logo](img/BerryBox-small.png)
+![BerryBox logo](docs/img/BerryBox-small.png)
 
 # BerryBox. A light theme for Xcode
-![Berry theme](img/xd0-preview.png)
+![Berry theme](docs/img/xd0-preview.png)
 
 ## Background
 
@@ -33,7 +33,7 @@ which will install the file in Xcode **FontAndColorThemes** directory.
 1.  _Xcode > Preferences > Fonts & Colors_
 2.  Select the **BerryBox** theme
 
-![BerryBox preferences](img/preferences.png)
+![BerryBox preferences](docs/img/preferences.png)
 
 ### The original [BerryBox theme](https://vladgohn.github.io/BerryBox-theme/) is created by [Vlad Gohn](http://vladgohn.com)
 
