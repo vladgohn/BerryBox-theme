@@ -1,5 +1,5 @@
 body {
-  background-color: #dbdcdd;
+  background-color: #ffed00;
   padding: 0;
   margin: 0;
   font: 14px/1.5 "OpenSans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -9,7 +9,7 @@ header {
   padding: 3em 0 300px;
   margin: 0 auto;
   text-align: center;
-  background: linear-gradient(to bottom, #505057 0%, rgba(80, 80, 87, 0) 100%); }
+  background: linear-gradient(to bottom, #d041ce 0%, rgba(255, 14, 209, 0) 100%); }
 
 .preview {
   background-image: url("../img/xd0-preview.png");
@@ -49,10 +49,10 @@ header {
 
 a {
   text-decoration: none;
-  color: #076fe1;
+  color: #1807e0;
   transition: .3s; }
   a:hover {
-    color: #00a3ff; }
+    color: #0d00a2; }
 
 pre, code {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace, 'courier new', monospace;
