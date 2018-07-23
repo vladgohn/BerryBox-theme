@@ -1,20 +1,10 @@
-<header>[![Xcode](img/BerryBox.png)
+![BerryBox logo](img/BerryBox.png)
 
 # BerryBox
 
-](https://github.com/vladgohn/BerryBox-theme)
+![Berry theme] (https://github.com/vladgohn/BerryBox-theme)
 
 ## A light theme for Xcode
-
-<iframe src="https://ghbtns.com/github-btn.html?user=vladgohn&amp;repo=BerryBox-theme&amp;type=watch&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="120" height="30"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=vladgohn&amp;repo=BerryBox-theme&amp;type=fork&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="120" height="30"></iframe>
-
-</header>
-
-<main class="wrap">
-
-<div class="instructions">
-
-<div class="getxcode">![BerryBox](img/XcodeIcon.png) [Get Xcode](https://developer.apple.com/xcode/)</div>
 
 #### Background
 
@@ -59,6 +49,3 @@ which will install the file in Xcode **FontAndColorThemes** directory.
 2018 © Made with <span class="love">♥</span> by [Vlad Gohn](http://vladgohn.com)  
 under [MIT license](http://mit-license.org/)
 
-</div>
-
-</main>
